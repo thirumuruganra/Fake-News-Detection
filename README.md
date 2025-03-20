@@ -19,6 +19,10 @@ The Models performance and results are shown in the file Model Results.xlsx
   - Pandas, NumPy (Data Processing)
   - Matplotlib (Visualization)
  
-## 🧑‍🤝‍🧑 The Team and Mentor
-Team: Thirumurugan RA, Vishal Muralidharan and Ananya Raman \
-Mentor: Dr. Rajalakshmi S, professor at SSN College of Engineering.
+## 🧑‍🤝‍🧑 Team Members
+- **Thirumurugan RA** - [thirumuruganra](https://github.com/thirumuruganra/)
+- **Vishal Muralidharan** - [vishal-muralidharan](https://github.com/vishal-muralidharan)
+- **Ananya Raman** - 
+
+## Mentor
+**Dr. S. Rajalakshmi** - [SSN College Staff Link](https://www.ssn.edu.in/staff-members/ms-s-rajalakshmi/) Assistant professor at SSN College of Engineering.
