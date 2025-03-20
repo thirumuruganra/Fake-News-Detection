@@ -25,4 +25,4 @@ The Models performance and results are shown in the file Model Results.xlsx
 - **Ananya Raman** - 
 
 ## Mentor
-**Dr. S. Rajalakshmi** - [SSN College Staff Link](https://www.ssn.edu.in/staff-members/ms-s-rajalakshmi/) Assistant professor at SSN College of Engineering.
+**Dr. S. Rajalakshmi** - Assistant professor at SSN College of Engineering. [SSN College Faculty Link](https://www.ssn.edu.in/staff-members/ms-s-rajalakshmi/) 
